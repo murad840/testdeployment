@@ -32,7 +32,7 @@ include ('includes/header.html');
                               <dd><img src="images/food/food1.jpg" alt="" width="97" height="67" /><span>12.95</span></dd>
                               <dd><img src="images/food/food2.jpg" alt="" width="97" height="67" /><span>12.95</span></dd>
                            </dl>
-                        <h3><small>Welcome to BEL Resturant!</small></h3>
+                        <h3><small>Welcome to Karachi Resturant!</small></h3>
                         <p>Bel Resturant is the largest casual dining chain in the world, with locations throughout the U.S. and many countries worldwide. We take pride in having a friendly, welcoming, neighborhood environment for both <br>
                         our staff and guests that makes everyone enjoy their bels experience.<p>If you're looking for a fabulous career with a great social environment, apply to become part of the Bel's family. Hand-cut steaks, award winning ribs, fresh-baked bread and made from scratch side items are the standard at Texas Roadhouse. </p>
                         <p>All of our food is created from scratch with only the highest quality-freshest ingredients. We combine large portions and great value to give you Legendary Food at a reasonable price.
